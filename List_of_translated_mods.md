@@ -1,3 +1,8 @@
+# X2WOTCCommunityHighlander v1.25.0
+https://steamcommunity.com/sharedfiles/filedetails/?id=1134256495
+
+* Chinese
+
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
 
